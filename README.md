@@ -1,6 +1,6 @@
 # Medial-Insurance-Cost-Prediction-using-ML
 
-This project aims to predict medical insurance costs based on individual attributes using machine learning models. It uses a regression-based approach to estimate the charges a person might incur, depending on factors like age, BMI, smoking status, and more.
+This project aims to predict medical insurance costs based on individual attributes using machine learning models. It uses a regression-based approach to estimate the charges a person might incur, depending on factors like age, BMI, smoking status, more and more.
 
 # 📌 Features
 
