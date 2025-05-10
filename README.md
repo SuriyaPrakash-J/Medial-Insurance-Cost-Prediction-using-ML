@@ -4,7 +4,6 @@ This project aims to predict medical insurance costs based on individual attribu
 
 # 📌 Features
 
-
 Exploratory Data Analysis (EDA)
 Data preprocessing and encoding
 Model training using regression algorithms
